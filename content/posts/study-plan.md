@@ -2,7 +2,7 @@
 title: "学习规划"
 date: 2022-05-27T23:17:40+08:00
 author: jtchen
-draft: true
+draft: false
 ---
 
 ### 一些想说的话
