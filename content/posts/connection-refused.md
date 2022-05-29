@@ -49,3 +49,4 @@ nameserver 192.168.10.1
 nameserver fe80::a:1%wlo1
 ```
 - 会不会引起什么意外效应还有待评估～
+- 补充：该文件是NetworkManager自动生成的，需要对具体wifi做配置才能完美解决！
